@@ -1,0 +1,14 @@
+D:\workspace\Sparta\C_study\BlackJack\BlackJack\bin\Debug\net6.0\BlackJack.exe
+D:\workspace\Sparta\C_study\BlackJack\BlackJack\bin\Debug\net6.0\BlackJack.deps.json
+D:\workspace\Sparta\C_study\BlackJack\BlackJack\bin\Debug\net6.0\BlackJack.runtimeconfig.json
+D:\workspace\Sparta\C_study\BlackJack\BlackJack\bin\Debug\net6.0\BlackJack.dll
+D:\workspace\Sparta\C_study\BlackJack\BlackJack\bin\Debug\net6.0\BlackJack.pdb
+D:\workspace\Sparta\C_study\BlackJack\BlackJack\obj\Debug\net6.0\BlackJack.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\Sparta\C_study\BlackJack\BlackJack\obj\Debug\net6.0\BlackJack.AssemblyInfoInputs.cache
+D:\workspace\Sparta\C_study\BlackJack\BlackJack\obj\Debug\net6.0\BlackJack.AssemblyInfo.cs
+D:\workspace\Sparta\C_study\BlackJack\BlackJack\obj\Debug\net6.0\BlackJack.csproj.CoreCompileInputs.cache
+D:\workspace\Sparta\C_study\BlackJack\BlackJack\obj\Debug\net6.0\BlackJack.dll
+D:\workspace\Sparta\C_study\BlackJack\BlackJack\obj\Debug\net6.0\refint\BlackJack.dll
+D:\workspace\Sparta\C_study\BlackJack\BlackJack\obj\Debug\net6.0\BlackJack.pdb
+D:\workspace\Sparta\C_study\BlackJack\BlackJack\obj\Debug\net6.0\BlackJack.genruntimeconfig.cache
+D:\workspace\Sparta\C_study\BlackJack\BlackJack\obj\Debug\net6.0\ref\BlackJack.dll
